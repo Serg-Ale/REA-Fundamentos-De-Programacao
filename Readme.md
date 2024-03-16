@@ -1,4 +1,4 @@
-# REA-Fundamentos-De-Programacao
+# REA Fundamentos De Programacão
 
 Repositório criado para a disciplina Certificadora de Competências Comuns do curso de Análise e Desenvolvimento de Sistemas - UTFPR-CP
 
