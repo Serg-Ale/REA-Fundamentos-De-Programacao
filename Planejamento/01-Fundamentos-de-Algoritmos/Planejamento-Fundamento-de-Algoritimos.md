@@ -1,6 +1,6 @@
-## Aula 1 - Introdução à Linguagem C e Conceitos Básicos de Algoritmos (Estimativa: 2 horas)
-
 > Os tempos descritos abaixo são apenas estimativas e portanto podem variar.
+
+## Aula 1 - Introdução à Linguagem C e Conceitos Básicos de Algoritmos (Estimativa: 2 horas)
 
 - **Introdução à Linguagem C:** (30 minutos)
   - História da linguagem C e suas características.
