@@ -11,7 +11,7 @@
   - Utilização de blocos de código para decisões alternativas.
   - Exemplos práticos de aplicação da estrutura if-else.
 
-## Aula 2 - Estruturas de Decisão Composta (Estimativa: 1 hora e 30 minutos)
+## Aula 2 - Estruturas de Decisão Encadeadas (Estimativa: 1 hora e 30 minutos)
 
 - **Estrutura de Decisão Encadeada (if-else if-else):** (45 minutos)
   - Sintaxe da estrutura if-else if-else em C.
